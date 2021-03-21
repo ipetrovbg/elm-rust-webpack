@@ -1,0 +1,12 @@
+!rust/
+
+rust/*
+!rust/src/
+!/rust/Cargo.lock
+!/rust/Cargo.toml
+/pkg
+node_modules
+elm-stuff
+dist
+.idea
+/public
