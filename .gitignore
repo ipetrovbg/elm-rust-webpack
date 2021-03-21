@@ -1,0 +1,6 @@
+/pkg
+node_modules
+elm-stuff
+dist
+.idea
+/public
