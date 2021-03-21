@@ -13,4 +13,5 @@ var app = Elm.Main.init({
 
 const nine = rust.add(5, 5)
 const hello = rust.hello();
-console.log(nine, hello);
+console.log(nine);
+console.log(hello);
